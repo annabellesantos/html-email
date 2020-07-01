@@ -1,6 +1,14 @@
 # HTML Emails
 
-## Intro to HTML Emails: Reflection
+## 2. Styling HTML Emails: Reflection
+
+**Describe any tricks or methodologies you developed to complete the task. Alternatively, discuss a trick or tool you found particularly useful in this process.**
+
+I found it helpful to draw a table on the screenshot, to have a rough idea of how many tables, rows and columns are needed for each section. This made laying out the HTML easier, especially when placing tables in tables.
+
+Asking for help is great too!
+
+## 1. Intro to HTML Emails: Reflection
 
 **Why is coding HTML for Email different from web coding?**
 

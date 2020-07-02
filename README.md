@@ -16,8 +16,10 @@ When running my HTML code in the [HTML Email Check](https://www.htmlemailcheck.c
 
 Viewing multiple test emails also helps with tweaking to improve compatibility. Test emails are invaluable, as I've learned when creating similar emails on Mailchimp and other WYSIWYG/no-code email builders.
 
-![Desktop email screenshot](./screenshot_desktop.png)
+\*note on screenshots: I adjusted my code with `max-width` after taking these screenshots, but I already used 2 emails' worth of test emails from Postdrop, so I'll just submit these lol.
+![Desktop browser email screenshot](./screenshot_desktopbrowser.png)
 ![Mobile email screenshot](./screenshot_mobile.png)
+![Desktop app email screenshot](./screenshot_desktopapp.png)
 
 ---
 

@@ -4,6 +4,10 @@ permalink: /index.html
 
 # HTML Emails
 
+Reflections and screenshots below!
+
+---
+
 ## 3. Testing & Deploying: Reflection
 
 **What adjustments did you make to your email to improve CSS compatibility or general deliverability?**
@@ -12,6 +16,11 @@ When running my HTML code in the [HTML Email Check](https://www.htmlemailcheck.c
 
 Viewing multiple test emails also helps with tweaking to improve compatibility. Test emails are invaluable, as I've learned when creating similar emails on Mailchimp and other WYSIWYG/no-code email builders.
 
+![Desktop email screenshot](./screenshot_desktop.png)
+![Mobile email screenshot](./screenshot_mobile.png)
+
+---
+
 ## 2. Styling HTML Emails: Reflection
 
 **Describe any tricks or methodologies you developed to complete the task. Alternatively, discuss a trick or tool you found particularly useful in this process.**
@@ -19,6 +28,8 @@ Viewing multiple test emails also helps with tweaking to improve compatibility. 
 I found it helpful to draw a table on the screenshot, to have a rough idea of how many tables, rows and columns are needed for each section. This made laying out the HTML easier, especially when placing tables in tables.
 
 Asking for help is great too!
+
+---
 
 ## 1. Intro to HTML Emails: Reflection
 

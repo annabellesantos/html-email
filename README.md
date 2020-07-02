@@ -1,4 +1,16 @@
+---
+permalink: /index.html
+---
+
 # HTML Emails
+
+## 3. Testing & Deploying: Reflection
+
+**What adjustments did you make to your email to improve CSS compatibility or general deliverability?**
+
+When running my HTML code in the [HTML Email Check](https://www.htmlemailcheck.com/check/), I followed all of the suggestions to make my code as compatible as possible: adding a meta content tag, converting the copyright symbol to its UTC code, and putting margins on semantic tags.
+
+Viewing multiple test emails also helps with tweaking to improve compatibility. Test emails are invaluable, as I've learned when creating similar emails on Mailchimp and other WYSIWYG/no-code email builders.
 
 ## 2. Styling HTML Emails: Reflection
 
